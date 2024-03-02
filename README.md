@@ -58,3 +58,4 @@ Automatyzacja i digitalizacja procesów biznesowych
 - **F3:** Delivery is confirmed, and post-purchase support is offered (e.g., satisfaction surveys, return processing)
 
 
+# AiDPB
